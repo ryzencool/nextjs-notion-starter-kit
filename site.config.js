@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'joyboy',
-  domain: 'https://www.notion.so/533590b4717a436a9122282eb5a7a69f',
+  domain: 'https://www.zmylol.top',
   author: 'Alex',
 
   // open graph metadata (optional)
