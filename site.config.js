@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'joyboy',
   domain: 'https://www.zmylol.top',
-  author: 'Alex',
+  author: 'Jin',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,9 +17,9 @@ module.exports = {
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+
+  github: 'ryzencool',
+
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
